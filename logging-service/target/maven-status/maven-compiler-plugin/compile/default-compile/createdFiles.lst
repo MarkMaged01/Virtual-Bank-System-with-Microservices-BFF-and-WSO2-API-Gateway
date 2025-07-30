@@ -1,0 +1,9 @@
+com\virtualbank\loggingservice\repository\LogRepository.class
+com\virtualbank\loggingservice\model\MessageType.class
+com\virtualbank\loggingservice\model\Log.class
+com\virtualbank\loggingservice\service\LogService.class
+com\virtualbank\loggingservice\config\KafkaConfig.class
+com\virtualbank\loggingservice\LoggingServiceApplication.class
+com\virtualbank\loggingservice\consumer\LogKafkaConsumer.class
+com\virtualbank\loggingservice\controller\LogController.class
+com\virtualbank\loggingservice\dto\LogMessageDto.class

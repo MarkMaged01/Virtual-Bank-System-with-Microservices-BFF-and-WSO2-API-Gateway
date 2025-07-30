@@ -1,0 +1,9 @@
+C:\Users\mokam\projects\virtual-bank-system\logging-service\src\main\java\com\virtualbank\loggingservice\model\MessageType.java
+C:\Users\mokam\projects\virtual-bank-system\logging-service\src\main\java\com\virtualbank\loggingservice\controller\LogController.java
+C:\Users\mokam\projects\virtual-bank-system\logging-service\src\main\java\com\virtualbank\loggingservice\dto\LogMessageDto.java
+C:\Users\mokam\projects\virtual-bank-system\logging-service\src\main\java\com\virtualbank\loggingservice\model\Log.java
+C:\Users\mokam\projects\virtual-bank-system\logging-service\src\main\java\com\virtualbank\loggingservice\consumer\LogKafkaConsumer.java
+C:\Users\mokam\projects\virtual-bank-system\logging-service\src\main\java\com\virtualbank\loggingservice\LoggingServiceApplication.java
+C:\Users\mokam\projects\virtual-bank-system\logging-service\src\main\java\com\virtualbank\loggingservice\config\KafkaConfig.java
+C:\Users\mokam\projects\virtual-bank-system\logging-service\src\main\java\com\virtualbank\loggingservice\repository\LogRepository.java
+C:\Users\mokam\projects\virtual-bank-system\logging-service\src\main\java\com\virtualbank\loggingservice\service\LogService.java

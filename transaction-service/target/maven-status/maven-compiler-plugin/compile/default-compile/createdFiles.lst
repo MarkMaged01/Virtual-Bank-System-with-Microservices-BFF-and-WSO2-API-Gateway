@@ -1,0 +1,11 @@
+com\virtualbank\transaction_service\dto\TransactionRequestDto.class
+com\virtualbank\transaction_service\config\RestTemplateConfig.class
+com\virtualbank\transaction_service\model\Transaction.class
+com\virtualbank\transaction_service\exception\TransactionNotFoundException.class
+com\virtualbank\transaction_service\exception\GlobalExceptionHandler.class
+com\virtualbank\transaction_service\model\TransactionStatus.class
+com\virtualbank\transaction_service\TransactionServiceApplication.class
+com\virtualbank\transaction_service\controller\TransactionController.class
+com\virtualbank\transaction_service\service\TransactionService.class
+com\virtualbank\transaction_service\repository\TransactionRepository.class
+com\virtualbank\transaction_service\dto\TransactionResponseDto.class
